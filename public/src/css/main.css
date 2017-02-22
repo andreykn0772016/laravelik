@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: table;
+    font-size: 16px;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    text-align: center;
+    display: block;
+    vertical-align: middle;
+}
+
+.content {
+    text-align: center;
+    display: inline-block;
+}
+
+
